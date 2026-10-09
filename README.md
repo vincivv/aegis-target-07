@@ -8,3 +8,6 @@ Sample applications are available for the other frameworks here:
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+
+---
+Mirrored from https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart (MIT) for AEGIS demo monitoring.
